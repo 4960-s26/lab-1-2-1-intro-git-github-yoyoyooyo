@@ -1,41 +1,12 @@
-Git Commits
--Records a snapshot of all the files in your directory
--Like a copy and paste  
--Saves the new changes made
--command is git commit
-
-Git Branches
--Pointers to a specific commit
--Said to branch early and branch often
--No storage or memory overhead with branches
--Includes all new and past work in the commit 
--Use git branch [name] to make a new branch
--Use git checkout [name] to move onto a branch
+The levels I completed were:
+Introduction to git commits
+Branching in git
+Merging in git
+Clone intro
+Remote branches
+Git fetchin'
+Git pullin'
+Faking teamwork
+Git pushin'
 
 
-Git Branching and Merging
--Combine work from two branches together
--Use git merge to create a commit that merges work from two unique parents
-
-
-Git Fetching
--Fetch data from a remote repository
--Downloads commits that the remote has but are missing from local repository
--Updates where remote branches point
--Does not change anything about local state. Does not update the main branch or anything about the file system
--Use git fetch
-
-
-Git Pulling
--Fetches and merges commits
--Use git pull
-
-
-Faking Teamwork
--Adds a certain number of commits
--Use fakeTeamwork [number]
-
-
-Git Push
--Command to publish your work to share with others
--Use git push
